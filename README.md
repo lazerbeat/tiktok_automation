@@ -2,7 +2,7 @@
 
 *This project is further explained in [this video](https://youtu.be/ZmSb3LZDdf0)*
 
-*This code is meant only for educational reference and will not be maintained. Because of this, the repo is archived and is in a read-only state*
+*I took the code in the repo and will experiment with it so i can improve it and add more video types*
 
 ---
 This program generates a .mp4 video automatically by querying the top post on the
@@ -14,3 +14,6 @@ r/askreddit subreddit, and grabbing several comments. The workflow of this progr
 
 Now, you can run `python main.py` to be prompted for which post to choose. Alternatively,
 you can run `python main.py <reddit-post-id>` to create a video for a specific post.
+---
+
+new functions tbd
